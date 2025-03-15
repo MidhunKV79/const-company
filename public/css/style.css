@@ -208,16 +208,18 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg1.jpg) center center no-repeat;
+  background: url(../img/intro-bg2.jpg) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 }
+
 .intro .overlay {
   background: rgba(0, 0, 0, 0.2);
 }
+
 .intro h1 {
   font-family: "Raleway", sans-serif;
   color: #fff;
@@ -227,10 +229,12 @@ a:focus,
   margin-top: 0;
   margin-bottom: 10px;
 }
+
 .intro h1 span {
   font-weight: 800;
   color: #5ca9fb;
 }
+
 .intro p {
   color: #fff;
   font-size: 22px;
@@ -238,11 +242,66 @@ a:focus,
   line-height: 30px;
   margin: 0 auto;
   margin-bottom: 60px;
+  max-width: 90%;
 }
+
 header .intro-text {
   padding-top: 200px;
   padding-bottom: 200px;
   text-align: center;
+}
+/* Responsive styles for tablets */
+@media screen and (max-width: 991px) {
+  .intro h1 {
+    font-size: 62px;
+  }
+  
+  .intro p {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  
+  header .intro-text {
+    padding-top: 150px;
+    padding-bottom: 150px;
+  }
+}
+
+/* Responsive styles for mobile phones */
+@media screen and (max-width: 767px) {
+  .intro h1 {
+    font-size: 42px;
+  }
+  
+  .intro p {
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 40px;
+    max-width: 95%;
+  }
+  
+  header .intro-text {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+}
+
+/* Responsive styles for small mobile phones */
+@media screen and (max-width: 480px) {
+  .intro h1 {
+    font-size: 32px;
+  }
+  
+  .intro p {
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 30px;
+  }
+  
+  header .intro-text {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
 }
 /* About Section */
 #about {
