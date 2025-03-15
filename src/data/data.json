@@ -1,0 +1,68 @@
+{
+  "Header": {
+    "title": "MANGALASSERIL CONSTRUCTIONS",
+    "paragraph": "We are a trusted construction company specializing in excavation and sheet piling. With expertise in JCB and Hitachi operations, we ensure precision and efficiency in every project."
+  },
+  "About": {
+    "paragraph": "With years of experience in excavation and sheet piling, we provide reliable and high-quality services for foundation support and land preparation. Our team operates advanced machinery, including JCB and Hitachi, to ensure safe and efficient project execution. We are committed to delivering excellence with a focus on precision, safety, and customer satisfaction."
+,    "Why": [
+      "Expert excavation using JCB and Hitachi",
+      "High-quality sheet piling solutions",
+      "Timely and efficient project completion",
+      "Commitment to safety and precision"
+    ],
+    "Why2": [
+      "Reliable and durable foundation solutions",
+      "Client-focused approach",
+      "State-of-the-art machinery",
+      "Transparent project management"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Excavation Project",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Sheet Piling (3m)",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Sheet Piling (5m)",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cogs",
+      "name": "Excavation Services",
+      "text": "We provide expert excavation using JCB and Hitachi, ensuring precision in land clearing, trenching, and foundation digging."
+    },
+    {
+      "icon": "fa fa-building",
+      "name": "Sheet Piling (3m)",
+      "text": "We specialize in 3-meter sheet piling, offering strong and secure foundation support for construction projects."
+    },
+    {
+      "icon": "fa fa-building",
+      "name": "Sheet Piling (5m)",
+      "text": "We provide 5-meter sheet piling solutions for enhanced structural stability and deep foundation needs."
+    }
+  ],
+"Contact": {
+    "address": "39/2606A South Janatha Road, Palarivattom P.O, Kochi : 682025",
+    "phone": [
+        "9847260277",
+        "7025013997",
+        "9995028856"
+    ],
+    "email": "info@constructioncompany.com",
+    "facebook": "fb.com/constructioncompany",
+    "twitter": "twitter.com/constructionco",
+    "youtube": "youtube.com/constructionco"
+
+  }
+}
