@@ -20,9 +20,15 @@ export const Contact = (props) => {
               <h3>Contact Info</h3>
               <p>
                 <span>
-                  <i className="fa fa-map-marker"></i> Address
+                  <i className="fa fa-map-marker"></i> Head Office
                 </span>
-                {props.data ? props.data.address : "loading"}
+                {props.data ? props.data.headOffice : "loading"}
+              </p>
+              <p>
+                <span>
+                  <i className="fa fa-map-marker"></i> Branch Office (UAE)
+                </span>
+                {props.data ? props.data.branchOffice : "loading"}
               </p>
             </div>
             <div className="contact-item">
@@ -53,11 +59,6 @@ export const Contact = (props) => {
                   <li>
                     <a href={props.data ? props.data.facebook : "/"}>
                       <i className="fa fa-facebook"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
-                      <i className="fa fa-twitter"></i>
                     </a>
                   </li>
                   <li>
