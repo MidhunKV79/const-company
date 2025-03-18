@@ -4,19 +4,7 @@
     "paragraph": "Building Excellence Since 2001. For over 24 years, Mangalasseril Constructions has been a trusted name in the construction industry, delivering high-quality, durable, and innovative solutions."
   },
   "About": {
-    "paragraph": "With a wealth of experience and a skilled workforce, we specialize in civil engineering, commercial and residential buildings, sheet piling for underground work, excavation, interior designing, landscaping, and steel fabrication. We also have a branch in UAE—Bina Al Hader Technical Services—specializing in steel fabrication, civil works, and technical solutions, serving industrial, commercial, and government sectors. Our strong foundation is built on expertise, quality, and innovation, with successful projects across commercial, residential, and industrial sectors.",
-    "Why": [
-      "24+ Years of Experience in Construction & Engineering",
-      "Expert Team of Engineers, Architects, and Skilled Professionals",
-      "Commitment to Quality, Safety, and Timely Project Delivery",
-      "Advanced Equipment & Modern Construction Techniques"
-    ],
-    "Why2": [
-      "Expanding Across India & the Middle East",
-      "Expertise in Civil Engineering & Structural Works",
-      "Steel Fabrication & Industrial Installations",
-      "Interior Designing & Landscaping Solutions"
-    ]
+    "paragraph": "With a wealth of experience and a skilled workforce, we specialize in CIVIL ENGINEERING, COMMERCIAL and RESIDENTIAL BUILDINGS, SHEET PILING (SHORING) FOR UNDERGROUND WORKS, EXCAVATION, INTERIOR DESIGNING, LANDSCAPING, and STEEL FABRICATION. We also have a branch in UAE—BINA AL HADER TECHNICAL SERVICES —SPECIALISING IN STEEL FABRICATION, Civil Works, and Technical Solutions, Serving Industrial, Commercial, and Government Sectors."
   },
   "Gallery": [
     {
@@ -24,59 +12,59 @@
       "largeImage": "img/portfolio/1.png"
     },
     {
-      "title": "Sheet Piling",
+      "title": "Sheet Piling (Shoring)",
       "largeImage": "img/portfolio/2.png"
     },
     {
-      "title": "Resedential Project",
+      "title": "Residential Project",
       "largeImage": "img/portfolio/3.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/4.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/5.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/6.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/7.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/8.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/9.png"
     },
     {
-      "title": "Sheet Piling",
+      "title": "Sheet Piling (Shoring)",
       "largeImage": "img/portfolio/10.png"
     },
     {
-      "title": "Resedential Project",
+      "title": "Residential Project",
       "largeImage": "img/portfolio/11.png"
     },
     {
-      "title": "Resedential Project",
+      "title": "Residential Project",
       "largeImage": "img/portfolio/12.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/13.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/14.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/15.png"
     },
     {
@@ -84,52 +72,112 @@
       "largeImage": "img/portfolio/16.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/17.png"
     },
     {
-      "title": "Sheet Piling",
+      "title": "Sheet Piling (Shoring)",
       "largeImage": "img/portfolio/18.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/19.png"
     },
     {
-      "title": "Sheet Piling",
+      "title": "Sheet Piling (Shoring)",
       "largeImage": "img/portfolio/20.png"
     },
     {
-      "title": "Sheet Piling",
+      "title": "Sheet Piling (Shoring)",
       "largeImage": "img/portfolio/21.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/22.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/23.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/24.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/25.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/26.png"
     },
     {
-      "title": "Commersial Project",
+      "title": "Commercial Project",
       "largeImage": "img/portfolio/27.png"
     },
     {
       "title": "Excavation Project",
-      "largeImage": "img/portfolio/28.png"
+      "largeImage": "img/portfolio/28.jpg"
+    },
+    {
+      "title": "Excavation Project",
+      "largeImage": "img/portfolio/29.jpg"
+    },
+    {
+      "title": "Commercial Project",
+      "largeImage": "img/portfolio/30.jpg"
+    },
+    {
+      "title": "Sheet Piling (Shoring)",
+      "largeImage": "img/portfolio/31.jpg"
+    },
+    {
+      "title": "Residential Project",
+      "largeImage": "img/portfolio/32.jpg"
+    },
+    {
+      "title": "Residential Project",
+      "largeImage": "img/portfolio/33.jpg"
+    },
+    {
+      "title": "Excavation Project",
+      "largeImage": "img/portfolio/34.jpg"
+    },
+    {
+      "title": "Sheet Piling (Shoring)",
+      "largeImage": "img/portfolio/35.jpg"
+    },
+    {
+      "title": "Sheet Piling (Shoring)",
+      "largeImage": "img/portfolio/36.jpg"
+    },
+    {
+      "title": "Residential Project",
+      "largeImage": "img/portfolio/37.jpg"
+    },
+    {
+      "title": "Sheet Piling (Shoring)",
+      "largeImage": "img/portfolio/38.jpg"
+    },
+    {
+      "title": "Commercial Project",
+      "largeImage": "img/portfolio/39.jpg"
+    },
+    {
+      "title": "Residential Project",
+      "largeImage": "img/portfolio/40.jpg"
+    },
+    {
+      "title": "Sheet Piling (Shoring)",
+      "largeImage": "img/portfolio/41.jpg"
+    },
+    {
+      "title": "Commercial Project",
+      "largeImage": "img/portfolio/42.jpg"
+    },
+    {
+      "title": "Sheet Piling (Shoring)",
+      "largeImage": "img/portfolio/43.jpg"
     }
   ],
   "Services": [
@@ -145,7 +193,7 @@
     },
     {
       "icon": "fa fa-cogs",
-      "name": "Sheet Piling & Underground Construction",
+      "name": "Sheet Piling (Shoring) & Underground Construction",
       "text": "Specialists in foundation work, basements, and underground structures, ensuring stability and long-term durability."
     },
     {
